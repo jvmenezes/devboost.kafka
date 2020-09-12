@@ -1,4 +1,4 @@
-# Kafka
+# POC Kafka
 Exemplo da utilização do Kakfa com Asp Net Core
 
 * A solução está subindo múltiplos projetos para que seja possível visualizar o funcionamento do trafego de dados no Kafka
